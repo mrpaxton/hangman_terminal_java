@@ -16,6 +16,6 @@ The game was designed using an Object-oriented approach and has a utility class 
 
 ---
 Usage:
-> java -jar hangman-2.0.jar
-> enter the word list file such as : words.txt
-> play the Game
+> * java -jar hangman-2.0.jar
+> * enter the word list file such as : words.txt
+> * play the Game
